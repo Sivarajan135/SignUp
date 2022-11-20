@@ -1,0 +1,70 @@
+h1
+{
+    color: rgb(182, 125, 71);
+}
+label{
+    color: azure;
+}
+body
+{
+   background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/03/Beautiful-Nature-Desktop-Wallpapers-Free-Download.jpg);
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding-top: 12em;
+}
+.TotalBody
+{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0,0,0,0.5); 
+    width: 300px;
+    border-radius: 10px;
+}
+.radio
+{
+    display: flex;
+    padding-bottom: 1em;
+}
+.submit
+{
+    padding-bottom: 2em;
+    text-align: center;
+    border-radius: 5px;
+}
+.username
+{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1em;
+}
+.email
+{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1em;
+}
+.password
+{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1em;
+}
+button
+{
+    background-color: snow;
+    color: rgb(163, 138, 36);
+    border-radius: 5px;
+}
+button:hover
+{
+    background-color:antiquewhite;
+}
+input:hover
+{
+   background-color: rgb(222, 239, 233);
+}
